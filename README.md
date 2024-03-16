@@ -7,7 +7,7 @@ It determine the least risky route, our software calculates the danger index of 
 
 ## Step-1: open the below link to deploy the source code in replit
 ```
-https://replit.com/join/dyopbpxekx-codedattebayo
+https://stree-rakshak.onrender.com/
 ```
 
 
@@ -17,7 +17,7 @@ https://replit.com/join/dyopbpxekx-codedattebayo
 node app.js
 ```
 
-> our are all set you can run our project now if you still find it a issue in deploying try to run in `localhost:3000` or Contact me: chaitanyasai1978@gmail.com
+> our are all set you can run our project now if you still find it a issue in deploying try to run in `localhost:3000` or Contact me: saimaniteja1919@gmail.com
 
 ## Techstack Used:
 > HTML
